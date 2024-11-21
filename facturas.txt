@@ -1,0 +1,4 @@
+Plan: Plan Premium | Cliente: Cristian | CUIT: 471829 | Domicilio: ckajnd | Tarjeta: 29308, ****3048 | Vencimiento: 230849
+Plan: Plan Premium | Cliente: Guillermo Verini | CUIT: 1347239 | Domicilio: Sarmiento 125
+Plan: Plan Premium | Cliente: Carolina Verini | CUIT: 9427802420 | Domicilio: Sacanta 180
+Plan: Plan Premium | Cliente: Cristian Figueroa | CUIT: 22454829817 | Domicilio: Chile 164
